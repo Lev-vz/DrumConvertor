@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm">
+<g fill="none" stroke="black" stroke-width="1"><rect x="20mm" y="5mm" width="185mm" height="287mm" /><rect x="8mm" y="147mm" width="12mm" height="145mm"/><line x1="13mm" x2="13mm" y1="147mm" y2="292mm"/><line x1="8mm" x2="20mm" y1="182mm" y2="182mm"/><line x1="8mm" x2="20mm" y1="207mm" y2="207mm"/><line x1="8mm" x2="20mm" y1="232mm" y2="232mm"/><line x1="8mm" x2="20mm" y1="267mm" y2="267mm"/><line x1="20mm" x2="205mm" y1="277mm" y2="277mm"/><line x1="20mm" x2="85mm" y1="282mm" y2="282mm"/><line x1="20mm" x2="85mm" y1="287mm" y2="287mm"/><line x1="195mm" x2="205mm" y1="282mm" y2="282mm"/><line x1="195mm" x2="205mm" y1="287mm" y2="287mm"/><line x1="27mm" x2="27mm" y1="277mm" y2="292mm"/><line x1="37mm" x2="37mm" y1="277mm" y2="292mm"/><line x1="60mm" x2="60mm" y1="277mm" y2="292mm"/><line x1="75mm" x2="75mm" y1="277mm" y2="292mm"/><line x1="85mm" x2="85mm" y1="277mm" y2="292mm"/><line x1="195mm" x2="195mm" y1="277mm" y2="292mm"/></g>
+<g id="Drum_PMS" title="Последовательность 'Запуск маслосистемы'">
+<g id="" >
+   <rect x="400.0" y="40.0" width="117.71429" height="40.0" rx="20.0" fill="none" stroke="black"/>
+    <text x="417.7143" y="66.85715"
+       style="font-style:normal;font-weight:bold;font-size:24px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   НАЧАЛО</text>
+</g>
+<g id="" >
+   <rect x="256.0" y="88.0" width="144.0" height="24.0" rx="0.0" fill="none" stroke="black"/>
+    <text x="264.0" y="104.0"
+       style="font-style:normal;font-weight:bold;font-size:14px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   Drum.PMS.enable</text>
+</g>
+    <path fill="none" stroke="black" d="M 400.0,100.0 H 462.85715 M 462.85715,80.0 V 120.0"/>
+    <path fill="#FFFFFF" stroke="black" d="M 458.85715,100.0 458.85715,92.0 466.85715,92.0 466.85715,100.0 462.85715,108.0 458.85715,100.0 "/><g id="Запуск маслосистемыStep1" >
+   <rect x="435.4286" y="120.0" width="54.857143" height="41.142857" rx="20.571428" fill="none" stroke="black"/>
+    <text x="456.00003" y="147.42857"
+       style="font-style:normal;font-weight:bold;font-size:24px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   1</text>
+</g>
+<g id="Запуск маслосистемы1F" >
+   <rect x="380.0" y="170.0" width="40.0" height="60.0" rx="0.0" fill="none" stroke="black"/>
+    <text x="388.0" y="186.0"
+       style="font-style:normal;font-weight:bold;font-size:14px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   AND</text>
+</g>
+<g id="Запуск маслосистемы1F0" >
+   <rect x="224.0" y="172.0" width="104.0" height="24.0" rx="0.0" fill="none" stroke="black"/>
+    <text x="232.0" y="188.0"
+       style="font-style:normal;font-weight:bold;font-size:14px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   DGI.PNS_ON</text>
+</g>
+<path fill="none" stroke="black" id="Запуск маслосистемы1F0_Запуск маслосистемы1F" d="M 328.0,184.0 H 345.16 V 182.0 H 380.0"
+    inkscape:connection-start="#Запуск маслосистемы1F0"
+    inkscape:connection-end="#Запуск маслосистемы1F" />
+
+<g id="Запуск маслосистемы1F1" >
+   <rect x="200.0" y="204.0" width="128.0" height="24.0" rx="0.0" fill="none" stroke="black"/>
+    <text x="208.0" y="220.0"
+       style="font-style:normal;font-weight:bold;font-size:14px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   ANB.PmsmN_U1v</text>
+</g>
+<path fill="none" stroke="black" id="Запуск маслосистемы1F1_Запуск маслосистемы1F" d="M 328.0,216.0 H 362.32 V 202.0 H 380.0"
+    inkscape:connection-start="#Запуск маслосистемы1F1"
+    inkscape:connection-end="#Запуск маслосистемы1F" />
+
+    <path fill="none" stroke="black" d="M 422.85715,201.14285 H 462.85715 M 462.85715,161.14285 V 241.14285"/>
+    <path fill="#FFFFFF" stroke="black" d="M 458.85715,201.14285 458.85715,193.14285 466.85715,193.14285 466.85715,201.14285 462.85715,209.14285 458.85715,201.14285 "/><g id="Запуск маслосистемыStep2" >
+   <rect x="435.4286" y="241.14285" width="54.857143" height="41.142857" rx="20.571428" fill="none" stroke="black"/>
+    <text x="456.00003" y="268.5714"
+       style="font-style:normal;font-weight:bold;font-size:24px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   2</text>
+</g>
+<g id="Запуск маслосистемы2T2" >
+   <rect x="382.85715" y="282.85715" width="40.0" height="40.0" fill="none" stroke="black"/>
+       <path fill="none" stroke="black" d="M 390.85715,310.85715 H 414.85715 M 390.85715,306.85715 V 314.85715 M 414.85715,306.85715 V 314.85715 M 435.4286,261.7143 H 366.85715 V 302.85715 H 382.85715"/>
+    <text x="394.85715" y="305.85715"
+       style="font-style:normal;font-weight:bold;font-size:14px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   T2</text>
+</g>
+    <path fill="none" stroke="black" d="M 422.85715,302.85712 H 462.85715 M 462.85715,282.2857 V 323.42856"/>
+    <path fill="#FFFFFF" stroke="black" d="M 458.85715,302.85712 458.85715,294.85712 466.85715,294.85712 466.85715,302.85712 462.85715,310.85712 458.85715,302.85712 "/><g id="Запуск маслосистемыStep3" >
+   <rect x="435.4286" y="323.42856" width="54.857143" height="41.142857" rx="20.571428" fill="none" stroke="black"/>
+    <text x="456.00003" y="350.85712"
+       style="font-style:normal;font-weight:bold;font-size:24px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   3</text>
+</g>
+<g id="Запуск маслосистемы3T_OR" >
+   <rect x="382.85715" y="376.85712" width="40.0" height="60.0" rx="0.0" fill="none" stroke="black"/>
+    <text x="390.85715" y="392.85712"
+       style="font-style:normal;font-weight:bold;font-size:14px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   OR</text>
+</g>
+<g id="Запуск маслосистемы3T3" >
+   <rect x="302.85715" y="350.85712" width="40.0" height="40.0" fill="none" stroke="black"/>
+       <path fill="none" stroke="black" d="M 310.85715,378.85712 H 334.85715 M 310.85715,374.85712 V 382.85712 M 334.85715,374.85712 V 382.85712 M 435.4286,344.0 H 286.85715 V 370.85712 H 302.85715"/>
+    <text x="314.85715" y="373.85712"
+       style="font-style:normal;font-weight:bold;font-size:14px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   T3</text>
+</g>
+<path fill="none" stroke="black" id="Запуск маслосистемы3T3_Запуск маслосистемы3T_OR" d="M 342.85715,370.85712 H 362.85715 V 392.85712 H 382.85715"
+    inkscape:connection-start="#Запуск маслосистемы3T3"
+    inkscape:connection-end="#Запуск маслосистемы3T_OR" />
+
+<g id="Запуск маслосистемы3F" >
+   <rect x="300.0" y="398.0" width="40.0" height="60.0" rx="0.0" fill="none" stroke="black"/>
+    <text x="308.0" y="414.0"
+       style="font-style:normal;font-weight:bold;font-size:14px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   AND</text>
+</g>
+<g id="Запуск маслосистемы3F0" >
+   <rect x="144.0" y="400.0" width="104.0" height="24.0" rx="0.0" fill="none" stroke="black"/>
+    <text x="152.0" y="416.0"
+       style="font-style:normal;font-weight:bold;font-size:14px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   DGI.PNU_ON</text>
+</g>
+<path fill="none" stroke="black" id="Запуск маслосистемы3F0_Запуск маслосистемы3F" d="M 248.0,412.0 H 265.16 V 410.0 H 300.0"
+    inkscape:connection-start="#Запуск маслосистемы3F0"
+    inkscape:connection-end="#Запуск маслосистемы3F" />
+
+<g id="Запуск маслосистемы3F1" >
+   <rect x="120.0" y="432.0" width="128.0" height="24.0" rx="0.0" fill="none" stroke="black"/>
+    <text x="128.0" y="448.0"
+       style="font-style:normal;font-weight:bold;font-size:14px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   ANB.dPm_g_U1v</text>
+</g>
+<path fill="none" stroke="black" id="Запуск маслосистемы3F1_Запуск маслосистемы3F" d="M 248.0,444.0 H 282.32 V 430.0 H 300.0"
+    inkscape:connection-start="#Запуск маслосистемы3F1"
+    inkscape:connection-end="#Запуск маслосистемы3F" />
+
+<path fill="none" stroke="black" id="Запуск маслосистемы3F_Запуск маслосистемы3T_OR" d="M 342.85715,430.85712 H 362.85715 V 420.85712 H 382.85715"
+    inkscape:connection-start="#Запуск маслосистемы3F"
+    inkscape:connection-end="#Запуск маслосистемы3T_OR" />
+
+    <path fill="none" stroke="black" d="M 422.85715,406.85712 H 462.85715 M 462.85715,364.5714 V 449.14282"/>
+    <path fill="#FFFFFF" stroke="black" d="M 458.85715,406.85712 458.85715,398.85712 466.85715,398.85712 466.85715,406.85712 462.85715,414.85712 458.85715,406.85712 "/><g id="" >
+   <rect x="408.0" y="449.14282" width="109.71429" height="40.0" rx="20.0" fill="none" stroke="black"/>
+    <text x="428.57144" y="475.99997"
+       style="font-style:normal;font-weight:bold;font-size:24px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   КОНЕЦ</text>
+</g>
+<g id="PMSOut0" >
+   <rect x="542.8572" y="128.57143" width="104.0" height="24.0" rx="12.0" fill="none" stroke="black"/>
+    <text x="550.8572" y="144.57143"
+       style="font-style:normal;font-weight:bold;font-size:14px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   drm.PNS_ON</text>
+</g>
+<path fill="none" stroke="black" id="PMSStep1_PMSOut0" d="M 490.28574,140.57143 H 506.05716 V 140.57143 H 542.8572"
+    inkscape:connection-start="#PMSStep1"
+    inkscape:connection-end="#PMSOut0" />
+
+<g id="PMSOut1" >
+   <rect x="542.8572" y="249.7143" width="112.0" height="24.0" rx="12.0" fill="none" stroke="black"/>
+    <text x="550.8572" y="265.7143"
+       style="font-style:normal;font-weight:bold;font-size:14px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   TS.StabMsmN</text>
+</g>
+<path fill="none" stroke="black" id="PMSStep2_PMSOut1" d="M 490.28574,261.7143 H 506.05716 V 261.7143 H 542.8572"
+    inkscape:connection-start="#PMSStep2"
+    inkscape:connection-end="#PMSOut1" />
+
+<g id="PMSOut2" >
+   <rect x="542.8572" y="332.0" width="104.0" height="24.0" rx="12.0" fill="none" stroke="black"/>
+    <text x="550.8572" y="348.0"
+       style="font-style:normal;font-weight:bold;font-size:14px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   drm.PNU_ON</text>
+</g>
+<path fill="none" stroke="black" id="PMSStep3_PMSOut2" d="M 490.28574,344.0 H 506.05716 V 344.0 H 542.8572"
+    inkscape:connection-start="#PMSStep3"
+    inkscape:connection-end="#PMSOut2" />
+
+<g id="" >
+   <rect x="542.8572" y="160.57143" width="40.0" height="64.0" rx="0.0" fill="none" stroke="black"/>
+    <text x="550.8572" y="176.57143"
+       style="font-style:normal;font-weight:bold;font-size:14px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   OR</text>
+</g>
+<g id="PMSOut3" >
+   <rect x="622.8572" y="168.57143" width="96.0" height="48.0" rx="12.0" fill="none" stroke="black"/>
+    <text x="630.8572" y="184.57143"
+       style="font-style:normal;font-weight:bold;font-size:14px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   subMode.P-</text>
+    <text x="630.8572" y="208.57143"
+       style="font-style:normal;font-weight:bold;font-size:14px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   MS</text>
+</g>
+<path fill="none" stroke="black" id="_" d="M 582.8572,192.57143 H 594.8572 V 192.57143 H 622.8572"
+    inkscape:connection-start="#"
+    inkscape:connection-end="#" />
+
+<path fill="none" stroke="black" id="PMSStep1_PMSOut3" d="M 490.28574,140.57143 H 506.05716 V 174.57143 H 542.8572"
+    inkscape:connection-start="#PMSStep1"
+    inkscape:connection-end="#PMSOut3" />
+
+<g id="" >
+   <rect x="502.85718" y="184.0" width="25.142857" height="17.142857" rx="8.571428" fill="none" stroke="black"/>
+    <text x="512.28577" y="195.71428"
+       style="font-style:normal;font-weight:bold;font-size:11px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   2</text>
+</g>
+<path fill="none" stroke="black" id="PMSStep2_PMSOut3" d="M 528.00006,192.57143 H 532.4572 V 192.57143 H 542.8572"
+    inkscape:connection-start="#PMSStep2"
+    inkscape:connection-end="#PMSOut3" />
+
+<g id="" >
+   <rect x="502.85718" y="203.2" width="25.142857" height="17.142857" rx="8.571428" fill="none" stroke="black"/>
+    <text x="512.28577" y="214.91428"
+       style="font-style:normal;font-weight:bold;font-size:11px;line-height:1.25;font-family:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+   3</text>
+</g>
+<path fill="none" stroke="black" id="PMSStep3_PMSOut3" d="M 528.00006,211.77142 H 532.4572 V 211.77142 H 542.8572"
+    inkscape:connection-start="#PMSStep3"
+    inkscape:connection-end="#PMSOut3" />
+
+</g>
+</svg>
